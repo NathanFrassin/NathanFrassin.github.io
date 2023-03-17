@@ -1,0 +1,25 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: maroon;
+    text-align : center
+}
+div {
+  text-align: center;
+}
+
+strong {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color:rebeccapurple;
+}
+
+body{
+    background-color: tan;
+}
+
+ 
